@@ -9,6 +9,8 @@
 
 </div>
 
+## [Link to React App](https://github.com/PRATAP-KUMAR/hello-rails-front-end/tree/feature/app)
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
