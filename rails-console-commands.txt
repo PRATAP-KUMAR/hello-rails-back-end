@@ -1,0 +1,5 @@
+Greeting.create(message: "Its nice to start with 'hello-rails-back-end' project")
+Greeting.create(message: "Its nice to work on 'hello-rails-back-end' project")
+Greeting.create(message: "Work hard to get onto 'hello-rails-back-end' project")
+Greeting.create(message: "Thanks for revieweing 'hello-rails-back-end' project")
+Greeting.create(message: "Thanks for your code review on 'hello-rails-back-end' project")
